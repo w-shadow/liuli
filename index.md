@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to liuli Pages
 
 You can use the [editor on GitHub](https://github.com/w-shadow/liuli/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
